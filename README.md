@@ -22,6 +22,6 @@ Include logo/demo screenshot etc.
 - Install all dependecies from your gitbash or command line
 - The app should load on the localhost, port 3000. This will load on your browser.
 
-#License
+## License
 Anisha Patel
 
