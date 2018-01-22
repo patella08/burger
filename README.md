@@ -11,16 +11,16 @@ Include logo/demo screenshot etc.
 ## Tech/framework used
 
 <b>Built with</b>
-- [Electron]HTML5
-- [Electron]MySQL
-- [Electron]Javascript
-- [Electron]Handlebars
+- HTML5
+- MySQL
+- Javascript
+- Handlebars
 
 ## Installation
--clone the repo to your personal machine
--Add the databse to your MySQL using the .sql files within the repo
--install all dependecies from your gitbash or command line
--the app should load on the localhost, port 3000. This will load on your browser.
+- Clone the repo to your personal machine
+- Add the databse to your MySQL using the .sql files within the repo
+- Install all dependecies from your gitbash or command line
+- The app should load on the localhost, port 3000. This will load on your browser.
 
 #License
 Anisha Patel
